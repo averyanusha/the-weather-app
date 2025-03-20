@@ -1,0 +1,24 @@
+body {
+  background-size: 100%;
+}
+
+.container {
+  padding: 100px;
+  text-align: center;
+}
+
+.time {
+  font-weight: 500;
+  font-size: 25px;
+}
+
+.weather {
+  color: white;
+  font-size: 30px;
+}
+
+.search {
+  text-align: center;
+  padding: 20px;
+  border-radius: 20px;
+}
